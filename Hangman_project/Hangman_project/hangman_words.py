@@ -1,0 +1,4 @@
+words_of_fruits=["Apple", "Banana", "Mango", "Orange", "Pineapple", "Grapes", "Kiwi", "Papaya", "Watermelon", "Strawberry", "Blueberry", "Peach", "Plum", "Raspberry", "Pear", "Cherry", "Guava", "Pomegranate", "Dragonfruit", "Lychee"]
+words_of_vegetables=["Carrot", "Broccoli", "Spinach", "Lettuce", "Cucumber", "Tomato", "Eggplant", "Cauliflower", "Zucchini", "Potato", "Onion", "Garlic", "Bell Pepper", "Kale", "Cabbage", "Pumpkin", "Radish", "Beetroot", "Asparagus", "Celery"]
+words_of_animals=["Elephant", "Tiger", "Lion", "Giraffe", "Kangaroo", "Zebra", "Dolphin", "Shark", "Whale", "Eagle", "Wolf", "Fox", "Rabbit", "Horse", "Dog", "Cat", "Penguin", "Bear", "Crocodile", "Chimpanzee"]
+words_of_countries=["United States", "Canada", "Brazil", "Argentina", "Mexico", "United Kingdom", "France", "Germany", "Spain", "Italy", "Australia", "Japan", "China", "India", "Russia", "South Africa", "Egypt", "Nigeria", "Saudi Arabia", "Turkey"]
